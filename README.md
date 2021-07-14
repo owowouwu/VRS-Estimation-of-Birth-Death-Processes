@@ -1,6 +1,6 @@
 # Background
 
-I undertook a research project under The University of Melbourne's Mathematics and Statistics Department in summer Dec 2020 - Feb 2021. This repository has what I partially implemented in a paper by [Crawford et al.]
+I undertook a research project under The University of Melbourne's Mathematics and Statistics Department in summer Dec 2020 - Feb 2021. This repository has what I partially implemented in a paper by Crawford linked below.
 
 ## Introduction
    A birth death process (BDP) is a continuous time Markov chain which models the number of particles in a system. This number can either transition up or down one step at random according to a sequence of birth-rates and death-rates, depending on the population.
