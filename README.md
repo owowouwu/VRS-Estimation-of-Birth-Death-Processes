@@ -19,7 +19,7 @@ in a paper by [Crawford et al.]
 I wish to thank my supervisors Dr Sophie Hautphenne and Dr Brendan Patch for their time and work in supervising me, as well as the School of Mathematics and Statistics for this wonderful opportunity. This experience has been quite invaluable to me, as it has allowed me to both develop my ability and grow my appreciation for scientific research.
     
 ## References
-[1] A. Kraus A.C. Davidson S. Hautphenne.“Parameter estimation for discretely observed linear birth-and-death processes”. In:The Interna-tional Biometric Society(2020).doi:10.1111/biom.13282.
-[2]  Marc A. Suchard Forrest W. Crawford.“Transition probabilities for general birth–death processes with applications in ecology, genetics, andevolution”. In:J. Math. Biol.65 (2011), pp. 553–580.
-[3]  Marc A. Suchard Forrest W. Crawford Vladimir N. Minin.“Estimation for General Birth-Death Processes”. In:Journal of the AmericanStatistical Association109.506 (2014), pp. 730–747.doi:10.1080/01621459.2013.866565.
+[1] A. Kraus A.C. Davidson S. Hautphenne.“Parameter estimation for discretely observed linear birth-and-death processes”. In:The Interna-tional Biometric Society(2020).doi:10.1111/biom.13282. \\
+[2]  Marc A. Suchard Forrest W. Crawford.“Transition probabilities for general birth–death processes with applications in ecology, genetics, andevolution”. In:J. Math. Biol.65 (2011), pp. 553–580. \\
+[3]  Marc A. Suchard Forrest W. Crawford Vladimir N. Minin.“Estimation for General Birth-Death Processes”. In:Journal of the AmericanStatistical Association109.506 (2014), pp. 730–747.doi:10.1080/01621459.2013.866565. \\
 [4]  F. Gerber.“A parallel version of ’scipy.optimize.minimize(method=’L-BFGS-B’”. In: (2020).doi:10.5281/zenodo.3888570.
