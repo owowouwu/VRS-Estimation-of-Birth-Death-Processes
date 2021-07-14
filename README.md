@@ -1,8 +1,8 @@
 # Background
    A birth death process (BDP) is a continuous time Markov chain which models the number of particles in a system. This number can either transition up or down one step at random according to a sequence of birth-rates and death-rates, depending on the population.
-   The model of interest is a type of logistic growth model with birth-rates and death-rates given respectively by <br/>
+   The model of interest is a type of logistic growth model with birth-rates and death-rates given respectively by <br/><br/>
    <img src="https://latex.codecogs.com/gif.latex?\lambda_k&space;=k^2e^{-k\alpha}" title="\lambda_k =k^2e^{-k\alpha}" /><br/>
-   <img src="https://latex.codecogs.com/gif.latex?\mu_k&space;=&space;k\mu" title="\mu_k = k\mu" /><br/>
+   <img src="https://latex.codecogs.com/gif.latex?\mu_k&space;=&space;k\mu" title="\mu_k = k\mu" /><br/><br/>
    The aim of this project was to implement a novel way of finding transition probabilities in the process as described in [Crawford et al.](https://www.researchgate.net/publication/51957281_Estimation_for_General_Birth-Death_Processes), then apply an EM (expectation maximisation) algorithm to estimate the parameters in the model above.
    In the end a direct method of likelihood optimisation was used instead, and a comparison to matrix exponential methods was made. <br/>
    A link to the poster created can be found [here](https://ms.unimelb.edu.au/__data/assets/pdf_file/0010/3628603/Poster_Steven_Nguyen.pdf).
