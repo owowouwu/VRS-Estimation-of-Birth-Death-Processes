@@ -4,7 +4,7 @@
    <img src="https://latex.codecogs.com/gif.latex?\lambda_k&space;=k^2e^{-k\alpha}" title="\lambda_k =k^2e^{-k\alpha}" /><br/>
    <img src="https://latex.codecogs.com/gif.latex?\mu_k&space;=&space;k\mu" title="\mu_k = k\mu" /><br/><br/>
    The aim of this project was to implement a novel way of finding transition probabilities in the process as described in [Crawford et al.](https://www.researchgate.net/publication/51957281_Estimation_for_General_Birth-Death_Processes), then apply an EM (expectation maximisation) algorithm to estimate the parameters in the model above.
-   In the end a direct method of likelihood optimisation was used instead, and a comparison to matrix exponential methods was made. <br/>
+   We aimed to compare this method to directly optimising the likelihood as well as checking compute times of transition probabilities against a matrix exponential method. <br/>
 
 ## Acknowledgements
 I wish to thank my supervisors Dr Sophie Hautphenne and Dr Brendan Patch for their time and work in supervising me, as well as the School of Mathematics and Statistics for this wonderful opportunity. This experience has been quite invaluable to me, as it has allowed me to both develop my ability and grow my appreciation for scientific research.
